@@ -1,0 +1,1 @@
+# bookmarks-stats-extension
